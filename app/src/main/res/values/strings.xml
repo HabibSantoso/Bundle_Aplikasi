@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bundle_Aplikasi</string>
+    <string name="login">Login</string>
+    <string name="usr_name">user</string>
+    <string name="password">Passwords</string>
+    <string name="masuk">Sing-in</string>
+    <string name="dname">Nama anda: </string>
+    <string name="dmail">E-mail anda: </string>
+</resources>
