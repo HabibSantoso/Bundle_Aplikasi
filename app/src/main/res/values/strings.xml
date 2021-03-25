@@ -6,4 +6,6 @@
     <string name="masuk">Sing-in</string>
     <string name="dname">Nama/e-mail anda: </string>
     <string name="dpass">Passwords anda: </string>
+    <string name="labelhasil">Hasil Login</string>
+    <string name="tagdata">Data User</string>
 </resources>
